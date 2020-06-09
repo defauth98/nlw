@@ -4,21 +4,21 @@
 
 <h3 align="center">Next Level Week 👋</h1>
 
-### O que é a Next Level Week?
+### :shrug: O que é a Next Level Week?
 
 A semana next level foi um evento que ocorreu no dia 1 até o 6 de Junho, onde desenvolvemos uma aplicação de ponta a ponta, desde o backend, frontend e mobile, usando ReactJS, React Native e NodeJS.
 
-### Qual é o objetivo do projeto?
+### :exploding_head: Qual é o objetivo do projeto?
 
 Durante essa semana de muito networking e muito código, foi contruído uma aplicação em que as companhias de coletas poderiam cadastrar pontos e com isso ajudar a melhorar o nosso mundo!
 
-## Projeto
+<h2 align="center">:evergreen_tree: Ecoleta</h2>
 
 <h1 align="center">
     <img alt="Example" title="Example" src=".github/capa.svg" width="500px" />
 </h1>
 
-## Técnologias
+## :computer: Tecnologias
 
 This project was developed with the following technologies:
 
@@ -35,7 +35,7 @@ This project was developed with the following technologies:
 [rn]: https://facebook.github.io/react-native/
 [yarn]: https://yarnpkg.com/
 
-## Como acessar o layout
+## :file_folder: Como acessar o layout
 
 O layout foi contruido usando o figma, você acessa-lo com esse link: [Projeto no Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/).
 
