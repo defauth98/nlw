@@ -26,7 +26,7 @@ Durante essa semana de muito networking e muito código, foi contruído uma apli
 
 ## :computer: Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes técnologias:
 
 - [Node.js][nodejs]
 - [TypeScript][typescript]
